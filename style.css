@@ -5,6 +5,8 @@ body, head {
   h1 {
     color: orange;
     text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
   }
   
   p {
